@@ -1,4 +1,11 @@
 # student-report-card-project
+
+open Terminal
+
+run <code>sudo g++ student-report-card-project.cpp</code>
+
+run <code>./a.out</code>
+
 <hr>
 <img src="https://user-images.githubusercontent.com/24265145/91663301-4807bb80-eae8-11ea-8289-f575866cae96.png" />
 
